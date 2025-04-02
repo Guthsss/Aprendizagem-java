@@ -1,5 +1,11 @@
+
+import java.util.Scanner;
+
 public class TiposVariaveis {
     public static void main(String[] args) {
+
+
+        // Tipos de dados primitivos em Java
 
         //Tipo de dados	  Descrição
         //byte	          Armazena números inteiros de -128 a 127
@@ -46,6 +52,21 @@ public class TiposVariaveis {
         boolean isFishTasty = false;
         System.out.println(isJavaFun);     // Outputs true
         System.out.println(isFishTasty);   // Outputs false
+
+        // Definindo um tipo Scanner
+        // O Scanner é uma classe que permite ler a entrada do usuário
+        String user;
+        try (Scanner scan = new Scanner(System.in)) {
+        System.out.println("Digite seu nome: "); // Solicita ao usuário que digite seu nomeGg
+        user = scan.next(); // Lê a próxima linha de entrada
+        System.out.println("Olá " + user + "!");
+        }
+
+        // Você pode usar o try-with-resources para garantir que o Scanner seja fechado automaticamente
+        // mas pode usar o close() também, no caso aqui seria scan.close(); que é o nome que dei para o Scanner
+
+       
+
 
         
 
