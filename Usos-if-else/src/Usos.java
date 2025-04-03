@@ -18,7 +18,7 @@ public class Usos {
         }
 
         int time = 20;
-        String result = (time < 18) ? "Good day." : "Good evening.";
+        String result = (time < 18) ? "Bom dia." : "Boa noite.";
         System.out.println(result);
     }
 }
