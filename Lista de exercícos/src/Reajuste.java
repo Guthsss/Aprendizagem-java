@@ -16,9 +16,5 @@ public class Reajuste {
         r = v + v * (5.0/100); // Aqui foi preciso o uso de 2 "v" porque o primeiro v adiciona a "r" e o segundo só é multiplicado por 0.05 assim ficando 5, então 100 + 5 = 105 ou 210 entre outros valores
 
         System.out.println("O valor X com um reajuste de 5% é: " + r);
-
-
-
-
     }
 }
