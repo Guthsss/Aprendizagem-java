@@ -6,7 +6,7 @@ public class Enquanto {
             i++;
         }
 
-        //
+        System.out.println("===");
 
         int j = 0;
 
@@ -38,6 +38,19 @@ public class Enquanto {
                 System.out.println("Explodiu o abacate!");
             }
             k = k + 1;
-        }   
+        } // O loop deve continuar até k ser maior que 6, não igual a 6, esse final de {} é do while
+
+        System.out.println("===");
+
+        // Aqui temos o uso de arrays = matrizes, que são listas de valores
+        // Exemplo de arrray para nomes de frutas
+        // O array é uma estrutura de dados que armazena uma coleção de elementos do mesmo tipo, podendo ser inteiros, strings, etc.
+
+        String[] frutas = {"Banana", "Maçã", "Laranja"}; // Array de frutas, com 3 elementos mas tenho a possibilidade de adicionar mais elementos, ou seja, o array é dinâmico, exemplo: "uva", "pera", "manga", etc.
+        for (String fruta : frutas) {
+            System.out.println(fruta);
+        }
+        
+        
     }
 }
