@@ -19,7 +19,7 @@ public class IMC {
             i = p / (a * a); // Fórmula do IMC
 
             // Classificação do IMC
-            
+
             if (i < 18.5) {
                 System.out.println("Abaixo do peso");
             } else if (i < 29.9) {
