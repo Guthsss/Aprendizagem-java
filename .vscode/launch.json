@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AntecessorSucessor",
+            "request": "launch",
+            "mainClass": "AntecessorSucessor",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Crescimento",
+            "request": "launch",
+            "mainClass": "Crescimento",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Decrescente",
+            "request": "launch",
+            "mainClass": "Decrescente",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Enquanto",
+            "request": "launch",
+            "mainClass": "Enquanto",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "IMC",
+            "request": "launch",
+            "mainClass": "IMC",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Idade",
+            "request": "launch",
+            "mainClass": "Idade",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "ImparPar",
+            "request": "launch",
+            "mainClass": "ImparPar",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicaçãoOuSoma",
+            "request": "launch",
+            "mainClass": "MultiplicaçãoOuSoma",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "OperadoresAritmeticos",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAtribuição",
+            "request": "launch",
+            "mainClass": "OperadoresAtribuição",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresComparação",
+            "request": "launch",
+            "mainClass": "OperadoresComparação",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "OperadosLógicos",
+            "request": "launch",
+            "mainClass": "OperadosLógicos",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Para",
+            "request": "launch",
+            "mainClass": "Para",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Pescador",
+            "request": "launch",
+            "mainClass": "Pescador",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Pix",
+            "request": "launch",
+            "mainClass": "Pix",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Reajuste",
+            "request": "launch",
+            "mainClass": "Reajuste",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "SalarioLiquido",
+            "request": "launch",
+            "mainClass": "SalarioLiquido",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "SalarioMinimo",
+            "request": "launch",
+            "mainClass": "SalarioMinimo",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "TiposString",
+            "request": "launch",
+            "mainClass": "TiposString",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "ValoresInteiros",
+            "request": "launch",
+            "mainClass": "ValoresInteiros",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "anos",
+            "request": "launch",
+            "mainClass": "anos",
+            "projectName": "Aprendizagem-java_7c54f360"
+        }
+    ]
+}
