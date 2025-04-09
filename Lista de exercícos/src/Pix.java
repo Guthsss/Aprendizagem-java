@@ -34,7 +34,7 @@ public class Pix {
 
         if (formaDePagamento == 1) {
             valorDoProduto = valorDoProduto - (0.15 * valorDoProduto);
-            System.out.println("O valor total a ser pago é " + valorDoProduto);
+            System.out.println("O valor total a ser pago é " + valorDoProduto); 
         } else if (formaDePagamento == 2) {
             valorDoProduto = valorDoProduto - (0.10 * valorDoProduto);
             System.out.println("O valor total a ser pago é " + valorDoProduto);
