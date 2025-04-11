@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConversaoTemperatura",
+            "request": "launch",
+            "mainClass": "ConversaoTemperatura",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "TroqueValores",
             "request": "launch",
             "mainClass": "TroqueValores",
