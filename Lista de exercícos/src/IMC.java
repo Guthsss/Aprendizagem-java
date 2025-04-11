@@ -7,8 +7,12 @@ public class IMC {
         float a, i;
 
         try (Scanner imc = new Scanner(System.in)) {
+
+            do { 
             System.out.print("Digite seu sexo: ");
-            s = imc.next().charAt(0);
+            s = imc.next().toUpperCase().charAt(0);
+            } while (s != 'F' && s != 'M');
+            
 
             System.out.print("Digite seu peso (em kg): ");
             p = imc.nextInt();

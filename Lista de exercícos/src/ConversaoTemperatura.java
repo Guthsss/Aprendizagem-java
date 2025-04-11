@@ -13,7 +13,7 @@ public class ConversaoTemperatura {
             System.out.println("2 - fahrenheit");
             System.out.println("3 - Kelvin");
 
-            System.out.print("Digite qual temperatura deseja converter: ");
+            System.out.print("Digite qual temperatura deseja converter: "); 
             opcao = temperatura.nextInt();
             
             if (opcao == 1) {
