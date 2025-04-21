@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MédiaIdades",
+            "request": "launch",
+            "mainClass": "MédiaIdades",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Continue",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "ConversaoTemperatura",
             "request": "launch",
             "mainClass": "ConversaoTemperatura",
