@@ -19,7 +19,6 @@ public class MédiaIdades {
         
         int anos[] = {20, 22, 18, 35, 48, 26, 87, 70}; // Armazena as idades na array
 
-       
         int lengthh = anos.length; // Obtem o número de elementos da array 
 
         int lowestAge = anos[0]; //  // Criar uma variável para armazenar a menor idade e inicializá-la com o primeiro elemento do array
