@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QdeLetras",
+            "request": "launch",
+            "mainClass": "QdeLetras",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "vss",
+            "request": "launch",
+            "mainClass": "vss",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Primo",
+            "request": "launch",
+            "mainClass": "Primo",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "Cadastro",
             "request": "launch",
             "mainClass": "Cadastro",
