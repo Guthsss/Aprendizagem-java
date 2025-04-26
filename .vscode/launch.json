@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cadastro",
+            "request": "launch",
+            "mainClass": "Cadastro",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "OrdemDeQuatroValores",
+            "request": "launch",
+            "mainClass": "OrdemDeQuatroValores",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "Estacoes",
             "request": "launch",
             "mainClass": "Estacoes",
