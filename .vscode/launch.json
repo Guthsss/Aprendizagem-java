@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DividirParDeImpar",
+            "request": "launch",
+            "mainClass": "DividirParDeImpar",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "InverterString",
             "request": "launch",
             "mainClass": "InverterString",
