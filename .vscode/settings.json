@@ -4,5 +4,6 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false
-    }
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }

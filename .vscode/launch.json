@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MetodoOperadores",
+            "request": "launch",
+            "mainClass": "MetodoOperadores",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MetodoSoma",
+            "request": "launch",
+            "mainClass": "MetodoSoma",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MetodoSysout",
+            "request": "launch",
+            "mainClass": "MetodoSysout",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "DividirParDeImpar",
             "request": "launch",
             "mainClass": "DividirParDeImpar",
