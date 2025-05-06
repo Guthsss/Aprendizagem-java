@@ -17,13 +17,13 @@ public class Ordens {
     static double z;
 
     static void ordemCrescente() {
-       Double[] numeros = {x, y ,z};
-       Arrays.sort(numeros);
-       System.out.println("\nOrdem crescente: " + numeros[0] + ", " + numeros[1] + ", " + numeros[2]);  
+       Double[] numeros = {x, y ,z}; // Cria uma array.
+       Arrays.sort(numeros); // Faz uma ordem crescente dos valores.
+       System.out.println("\nOrdem crescente: " + numeros[0] + ", " + numeros[1] + ", " + numeros[2]); // Faz um sysout para ser usado futuramente no switch case.
     }
     static void ordemDecrescente() {
         Double[] numeros1 = {x, y, z};
-        Arrays.sort(numeros1, Collections.reverseOrder());
+        Arrays.sort(numeros1, Collections.reverseOrder()); // Reverte a ordem da array.
         System.out.println("\nOrdem decrescente: " + numeros1[0] + ", " + numeros1[1] + ", " + numeros1[2]);
     }
     static void maiorNoMeio() {
