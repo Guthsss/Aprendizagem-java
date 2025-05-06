@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ordens",
+            "request": "launch",
+            "mainClass": "Ordens",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MetodoCalculadora",
+            "request": "launch",
+            "mainClass": "MetodoCalculadora",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "MetodoOperadores",
             "request": "launch",
             "mainClass": "MetodoOperadores",
