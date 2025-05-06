@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VariosParametros",
+            "request": "launch",
+            "mainClass": "VariosParametros",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "Ordens",
             "request": "launch",
             "mainClass": "Ordens",
