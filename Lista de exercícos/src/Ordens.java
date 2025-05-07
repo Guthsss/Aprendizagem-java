@@ -62,7 +62,7 @@ public class Ordens {
                 maiorNoMeio();
                 break;
                 default:
-                System.out.println("Valor inválido");
+                System.out.println("Valor inválido"); 
                 break;
             }  
         }
