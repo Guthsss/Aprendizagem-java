@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recursao",
+            "request": "launch",
+            "mainClass": "Recursao",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "VariosParametros",
             "request": "launch",
             "mainClass": "VariosParametros",

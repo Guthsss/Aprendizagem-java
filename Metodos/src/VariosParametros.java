@@ -25,3 +25,7 @@ public class VariosParametros {
         System.out.println("double: " + myNum2); // Soma de 4.3 + 6.23.
       }
     }
+
+    // Escopo Java.
+
+    // Um bloco de código pode existir por si só ou pode pertencer a um if, while ou for declaração. No caso de for extratos, variáveis declaradas no próprio extrato também estão disponíveis dentro do escopo do bloco.
