@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MultiplosObjetivos",
+            "request": "launch",
+            "mainClass": "MultiplosObjetivos",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
+            "name": "MultiplosObjetos",
+            "request": "launch",
+            "mainClass": "MultiplosObjetos",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "Recursao",
             "request": "launch",
             "mainClass": "Recursao",
