@@ -1,4 +1,8 @@
 public class JavaMetodo {
+    /**
+     * A static method that prints a predefined message to the standard output.
+     * This method can be called without creating an instance of the class.
+     */
     // Método estático
     static void myStaticMethod() {
         System.out.print("Hello ");
