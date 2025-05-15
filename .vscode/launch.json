@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gjgj",
+            "request": "launch",
+            "mainClass": "gjgj",
+            "projectName": "Aprendizagem-java_2646c751"
+        },
+        {
+            "type": "java",
             "name": "Tabuada",
             "request": "launch",
             "mainClass": "Tabuada",
