@@ -15,7 +15,7 @@ public class JavaMetodo {
 
     // Main method
     public static void main(String[] args) {
-        myStaticMethod(); // Chama o método estático
+        myStaticMethod(); // Chama o método estático;
 
         JavaMetodo myObj = new JavaMetodo(); // Criou um método JavaMetodo();
         myObj.myPublicMethod(); // Chama o método público por objeto;
