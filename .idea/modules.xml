@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aprendizagem-java.iml" filepath="$PROJECT_DIR$/.idea/Aprendizagem-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleano/Booleano.iml" filepath="$PROJECT_DIR$/Booleano/Booleano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes e Objetos/Classes e Objetos.iml" filepath="$PROJECT_DIR$/Classes e Objetos/Classes e Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista de exercícos/Lista de exercícos.iml" filepath="$PROJECT_DIR$/Lista de exercícos/Lista de exercícos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matématica.java/Matématica.java.iml" filepath="$PROJECT_DIR$/Matématica.java/Matématica.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipoSwich/TipoSwich.iml" filepath="$PROJECT_DIR$/TipoSwich/TipoSwich.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposVariaveis/TiposVariaveis.iml" filepath="$PROJECT_DIR$/TiposVariaveis/TiposVariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usos-if-else/Usos-if-else.iml" filepath="$PROJECT_DIR$/Usos-if-else/Usos-if-else.iml" />
+    </modules>
+  </component>
+</project>
