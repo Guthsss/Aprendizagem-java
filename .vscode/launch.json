@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AcessoMetodosComObjeto",
+            "request": "launch",
+            "mainClass": "AcessoMetodosComObjeto",
+            "projectName": "Aprendizagem-java_7c54f360"
+        },
+        {
+            "type": "java",
             "name": "gjgj",
             "request": "launch",
             "mainClass": "gjgj",

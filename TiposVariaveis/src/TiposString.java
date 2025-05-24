@@ -78,18 +78,6 @@ public class TiposString {
         //      \t	    Tabulação	
         //      \b	    Backspace	
         //      \f	    Forma Alimentação
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 
