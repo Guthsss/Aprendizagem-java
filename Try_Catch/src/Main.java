@@ -66,4 +66,16 @@ A instrução try permite que você defina um bloco de código para ser testado 
 A instrução catch permite definir um bloco de código a ser executado, caso ocorra um erro no bloco try.
 
 A instrução finally permite definir um bloco de código a ser executado independente de ocorrer um erro ou não. As palavras-chave try e catch vêm em pares:
- */
+
+ public class Exemplo {
+    public static void main(String[] args) {
+        try {
+            int a = 10 / 0; // Lança ArithmeticException
+        } catch (ArithmeticException e) {
+            System.out.println("Exceção: " + e.getMessage());
+        } finally {
+            System.out.println("Este bloco sempre será executado.");
+        }
+    }
+}
+*/
