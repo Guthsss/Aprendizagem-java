@@ -1,3 +1,0 @@
-Este repositório contém uma coleção de exercícios de programação desenvolvidos para praticar e reforçar conceitos fundamentais de lógica de programação e desenvolvimento de software. Os exercícios abordam diferentes níveis de dificuldade e cobrem tópicos como controle de fluxo, manipulação de dados, algoritmos, estruturas de dados e muito mais.
-##
-A pasta Lista de Exercícios está organizada em arquivos ou subpastas, onde cada arquivo representa um exercício ou conjunto de exercícios relacionados. Os exercícios são implementados em Java, mas podem ser adaptados para outras linguagens de programação.
