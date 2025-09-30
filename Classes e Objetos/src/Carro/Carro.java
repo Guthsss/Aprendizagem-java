@@ -16,7 +16,7 @@ public class Carro {
     public void Ligado() {
         this.ligado = true;
     }
-    public void dessligado() {
+    public void desligado() {
         this.ligado = false;
         this.velocidade = 0.0;
     }
@@ -35,6 +35,6 @@ public class Carro {
         }
     }
     public void exibirInfo() {
-        System.out.printf("Marca: %s\nModelo: %s\nAno: %d\nVelocidade: %.2f\nLigado: %b");
+        System.out.println("Marca: " + marca + "\nModelo: " + modelo + "\nAno: " + ano + "\nVelocidade: " + velocidade + "\nLigado: " + ligado);
     }
 }
