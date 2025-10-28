@@ -24,14 +24,15 @@ public class Pedido {
     public void removerProduto(Produto produto){
         produtos.remove(produto);
     }
-    public void calcularTotal(){
+    public double calcularTotal(){
         double soma = 0;
         for(Produto produto: produtos){
             soma += produto.getPreco();
         }
+        return soma;
     }
     public void aplicarDesconto(double percent){
-        this.descontoAcumulado = descontoAcumulado * percent;
+        this.descontoAcumulado = (calcularTotal() * percent/100);
     }
     public void pagar () {
         this.status = StatusPedido.PAGO;
@@ -43,7 +44,7 @@ public class Pedido {
         System.out.println("Id: " + this.id);
         System.out.println("Status: " + this.status);
         System.out.println("Desconto: " + this.descontoAcumulado);
-        System.out.println("Total: " + this.descontoAcumulado);
+        System.out.println("Total: " + (calcularTotal() - this.descontoAcumulado));
         System.out.println("Vendedor: " + this.vendedor);
         System.out.println("Cliente: " + this.cliente);
     }

@@ -26,8 +26,6 @@ public class Main {
         numero = partes[1];
         cep = partes[2];
         sc.close();
-        endereco1.
-        aluno1.exibirDados();
         System.out.println(curso1.descrever());
 
         Matricula matricula1 = new Matricula(1, aluno1, curso1, true);
