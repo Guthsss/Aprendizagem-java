@@ -22,4 +22,7 @@ public class Produto {
         System.out.println("Nome do Produto: " + this.nome);
         System.out.println("Valor do Produto: " + this.preco);
     }
+    public String toString() {
+        return "Nome do Produto: " + this.nome + "\nValor do Produto: " + this.preco;
+    }
 }
