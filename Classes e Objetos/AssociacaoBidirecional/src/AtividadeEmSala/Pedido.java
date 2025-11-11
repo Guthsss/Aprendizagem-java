@@ -36,6 +36,10 @@ public class Pedido {
     }
     public void pagar () {
         this.status = StatusPedido.PAGO;
+
+        if (this.vendedor != null) {
+            System.out.println("Comissão do vendedor: R$" + this.vendedor.calcularComissao(this.calcularTotal()));
+        }
     }
     public void calcelar () {
         this.status = StatusPedido.CANCELADO;
